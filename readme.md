@@ -33,10 +33,10 @@ HW accelerated (Measured time)                      |   .94s
 #### Resource utilization estimates for hardware accelerator
 Resource    |   Used    |   Total   |   % Utilization
 :----------:|----------:|----------:|:----------
-DSP         |   48      |   220     |   89.55
-BRAM        |   75      |   140     |   40
-LUT         |   35807   |   53200   |   71.3
-FF          |   47608   |   106400  |   27.51
+DSP         |   48      |   220     |   21.82
+BRAM        |   75      |   140     |   53.57
+LUT         |   35807   |   53200   |   67.31
+FF          |   47608   |   106400  |   44.74
 
 
 ### Contacts

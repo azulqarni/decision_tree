@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-  - family-names: Zoulkarni
-    given-names: Asim
-title: "FPGA-based Decision Tree Learning and Classifying"
-url: https://github.com/azulqarni/decision_tree
-date-released: 2020-04-11
